@@ -1,0 +1,19 @@
+# Python/Django files
+*.pyc
+__pycache__/
+myvenv/
+*.sqlite3
+*.pyo
+
+# React files
+/node_modules/
+/build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Other
+.DS_Store
+.env
+/env
